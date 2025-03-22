@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Swarna paul
 #### Web Developer
-![Web Developer](https://scontent.fdac22-1.fna.fbcdn.net/v/t39.30808-6/472283386_625540416819400_2069895079391420721_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeFhq82Xqjei28W838buWl9RQb-3OYO-KdtBv7c5g74p241QhaGfaVgjocp-v9EOPMnGyLWWaQiQe2yJ1LZgxvFe&_nc_ohc=yXanPkyu9WAQ7kNvgEedAQI&_nc_oc=Adlu7FK3k-4B_NfRRfiHRQ2f--mnk8V9YMlcbWHSYh5nf4yMZd5bk3fUy3O-mt5ncW8&_nc_zt=23&_nc_ht=scontent.fdac22-1.fna&_nc_gid=fHTl6L4VQmiuhJqn_uyzyg&oh=00_AYFEqDTxKS0OUxDLIbU4vYU_lV8fgG-3dNPioB2QlmL56A&oe=67E49038)
+![Web Developer](https://media.licdn.com/dms/image/v2/D5616AQGqsEV5uEDC2Q/profile-displaybackgroundimage-shrink_350_1400/B56ZWQJkuaHQAY-/0/1741880184611?e=1747872000&v=beta&t=pe3YsKFwpQhGtsabAUH4X2INfHJtK-PPsZ_8MXoJaKU)
 
 I am a passionate and dedicated Web Developer with experience in creating dynamic and interactive websites and web applications. Solving complex problems and continuously learning new technologies to enhance my skills is something I truly enjoy. I specialize in both front-end and back-end development, with a strong interest in building responsive, user-friendly applications.
 
